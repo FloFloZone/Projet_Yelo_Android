@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Libre Service vélos</string>
+    <string name="stations_v_los_en_libre_service">Stations vélos en libre-service</string>
+    <string name="afficher_toutes_les_stations">AFFICHER TOUTES LES STATIONS</string>
+</resources>
